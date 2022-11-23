@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FCC-Simple-React-Markdown-Previewer/static/css/main.b641f4c6.css",
+    "main.js": "/FCC-Simple-React-Markdown-Previewer/static/js/main.a4e2b19f.js",
+    "index.html": "/FCC-Simple-React-Markdown-Previewer/index.html",
+    "main.b641f4c6.css.map": "/FCC-Simple-React-Markdown-Previewer/static/css/main.b641f4c6.css.map",
+    "main.a4e2b19f.js.map": "/FCC-Simple-React-Markdown-Previewer/static/js/main.a4e2b19f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b641f4c6.css",
+    "static/js/main.a4e2b19f.js"
+  ]
+}
